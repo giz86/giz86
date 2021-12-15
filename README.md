@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giz86
 - 👀 I’m interested in java,python and php
-- 🌱 I’m currently working on persona; projects
+- 🌱 I’m currently working on personal; projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0986693939
 
